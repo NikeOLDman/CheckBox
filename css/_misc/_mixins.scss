@@ -1,0 +1,71 @@
+@mixin box-shadow($params) {
+	box-shadow: $params;
+	-webkit-box-shadow: $params;
+	-moz-box-shadow: $params;
+}
+
+%clearfix {
+	&:after {
+		content: "";
+		display: block;
+		clear: both;
+	}
+}
+
+@mixin inlineblock($valign: top) {
+	display: inline-block;
+	vertical-align: $valign;
+}
+
+//responsive
+
+@function rem($px) {
+	@return $px / 18px + 0rem;
+}
+
+@mixin btn($color) {
+	color: $color;
+	padding: rem(8px) rem(15px);
+	border: 2px solid $color;
+	border-radius: 50px;
+	font-size: rem(16px);
+	@include fira(medium);
+	text-decoration: none;
+	transition: all 0.2s;
+}
+
+@mixin btn-hover($color) {
+	color: #fff;
+	background: $color;
+	padding: rem(8px) rem(15px);
+	border: 2px solid $color;
+	border-radius: 50px;
+	font-size: rem(16px);
+	@include fira(medium);
+	text-decoration: none;
+	transition: all 0.2s;
+}
+
+@mixin desctop {
+	@media screen and (max-width: 1200px) {
+		@content;
+	}
+}
+
+@mixin laptop {
+	@media screen and (max-width: 992px) {
+		@content;
+	}
+}
+
+@mixin tablets {
+	@media screen and (max-width: 768px) {
+		@content;
+	}
+}
+
+@mixin phones {
+	@media screen and (max-width: 480px) {
+		@content;
+	}
+}

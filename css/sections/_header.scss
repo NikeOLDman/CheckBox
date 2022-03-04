@@ -1,0 +1,66 @@
+.header {
+	// .header__block
+
+	&__block {
+		background: $black;
+		margin: 30px 30px 40px;
+		padding: 25px 35px;
+		font-size: 0px;
+		color: $white;
+		border-radius: 5px;
+	}
+
+	// .header__left
+
+	&__left {
+		display: inline-block;
+		width: 80%;
+	}
+
+	// .header__right
+
+	&__right {
+		display: inline-block;
+		width: 20%;
+		vertical-align: top;
+		text-align: right;
+	}
+}
+
+.user {
+	font-size: 24px;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+}
+.items-count {
+	font-size: 14px;
+	// .items-count__item
+
+	&__item {
+		display: inline-block;
+		margin-right: 30px;
+	}
+
+	// .items-count__num
+
+	&__num {
+		@include fira(bold);
+		text-decoration: none;
+		color: $white;
+		transition: all 0.1s;
+		&:hover {
+			color: $red;
+		}
+	}
+}
+
+.logout {
+	font-size: 14px;
+	text-decoration: none;
+	color: $white;
+	transition: all 0.1s;
+
+	&:hover {
+		color: $red;
+	}
+}

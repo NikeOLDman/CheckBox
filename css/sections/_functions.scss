@@ -1,0 +1,68 @@
+.functions {
+    margin: 0px 30px 40px;
+    text-transform: uppercase;
+
+    // .functions__create
+
+    &__create {
+        display: inline-block;
+        margin-right: 100px;
+    }
+
+    // .functions__button
+
+    &__button {
+        text-decoration: none;
+        display: inline-block;
+        width: 130px;
+        text-align: center;
+        padding: 8px 0px;
+        border: 2px solid;
+        border-radius: 5px;
+        margin-right: 20px;
+        @include fira(medium);
+    }
+
+    // .functions__button-blue
+
+    &__button-blue {
+        border-color: $blue;
+        color: $white;
+        background: $blue;
+        transition: all 0.1s;
+        &:hover {
+            border-color: $red;
+            background: $red;
+        }
+    }
+
+    // .functions__filter
+
+    &__filter {
+        display: inline-block;
+    }
+
+    // .functions__button-grey
+
+    &__button-grey {
+        border-color: $black;
+        color: $black;
+        transition: all 0.1s;
+
+        &-back {
+            width: auto;
+            margin-left: 100px;
+            margin-right: 0px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+        &:hover {
+            color: $white;
+            background: $black;
+        }
+    }
+    &__button-greyactive {
+        color: $white;
+        background: $black;
+    }
+}

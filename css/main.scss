@@ -1,0 +1,23 @@
+// vars
+$white: #ffffff;
+$lightgrey: #f6f6f6;
+$blue: #33c1e3;
+$black: #414141;
+$red: #e85f61;
+$grey: #b6b6b6;
+$green: #53be4e;
+
+// layot
+@import "_misc/fonts";
+@import "_misc/mixins";
+@import "_misc/normalize";
+@import "_misc/adjustment";
+@import "plugins/font-awesome";
+
+// styles
+@import "sections/header";
+@import "sections/functions";
+@import "sections/tables";
+@import "sections/admintables";
+@import "sections/footer";
+@import "sections/mainpopup";

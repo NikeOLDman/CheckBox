@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Авторизация</title>
+    <link rel="stylesheet" href="css/main.css">
+    <script src="js/modernizr-custom.js"></script>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="maincontent">
+            <div class="mainpopup-wrapper">
+                <div class="mainpopup-left"></div>
+                <div class="mainpopup-right">
+                    <div class="mainpopup">
+                        <div class="mainpopup__header">АВТОРИЗАЦИЯ_</div>
+                        <div class="mainpopup__form">
+                            <form action="<?= $_SERVER['REQUEST_URI'] ?>" method="post">
+                                <div class="mainpopup__input">
+                                    <label for="txtUser" class="mainpopup__title">LOGIN</label>
+                                    <input id="txtUser" required type="text" name="login" class="mainpopup__descr"
+                                        value="<?= $login ?>" />
+                                </div>
+                                <div class="mainpopup__input">
+                                    <label for="txtString" class="mainpopup__title">PASS</label>
+                                    <input id="txtString" required class="mainpopup__descr" type="password" name="pw" />
+                                </div>
+                                <div class="mainpopup__buttons">
+                                    <div class="mainpopup__otherbutton">
+                                        <a href="#" class="mainpopup__link">РЕГИСТРАЦИЯ</a>
+                                    </div>
+                                    <div class="mainpopup__button">
+                                        <button type="submit" class="mainpopup__submit">ВХОД</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

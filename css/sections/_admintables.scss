@@ -1,0 +1,70 @@
+.userdisplay {
+    margin: 0px 30px 40px;
+    font-size: 18px;
+    // .userdisplay__title
+
+    &__title {
+        display: inline-block;
+        padding-left: 30px;
+        margin-right: 20px;
+        vertical-align: middle;
+    }
+
+    // .userdisplay__name
+
+    &__name {
+        display: inline-block;
+        margin-right: 20px;
+        text-transform: uppercase;
+        @include fira(bold);
+        vertical-align: middle;
+    }
+
+    // .userdisplay__func
+
+    &__func {
+        display: inline-block;
+        font-size: 10px;
+    }
+
+    // .userdisplay__button
+
+    &__button {
+        display: inline-block;
+        vertical-align: bottom;
+        border: 2px solid $red;
+        border-radius: 5px;
+        text-transform: uppercase;
+        text-align: center;
+        padding: 4px 0;
+        width: 100px;
+        margin-right: 10px;
+        text-decoration: none;
+        color: $red;
+        @include fira(medium);
+        transition: all 0.1s;
+        &:hover {
+            color: $white;
+            background: $red;
+        }
+    }
+}
+
+.usertable-fio {
+    width: 50%;
+    text-align: left;
+    padding-left: 20px;
+    min-width: 300px;
+}
+.usertable-login {
+    width: 20%;
+    min-width: 100px;
+}
+.usertable-create {
+    width: 12%;
+    min-width: 50px;
+}
+.usertable-deleted {
+    width: 10%;
+    min-width: 50px;
+}

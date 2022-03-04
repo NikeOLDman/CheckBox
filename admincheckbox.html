@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Админ - Чек Бокс</title>
+    <link rel="stylesheet" href="css/main.css">
+    <script src="js/modernizr-custom.js"></script>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="maincontent">
+
+            <!-- /==================== header ====================\ -->
+            <header class="header">
+                <div class="container">
+                    <div class="header__block">
+                        <div class="header__left">
+                            <div class="user">
+                                Режим администратора - Пупкин Валерий Петрович
+                            </div>
+                            <ul class="items-count">
+                                <li class="items-count__item">
+                                    Активных задач: <a href="#" class="items-count__num">10</a>
+                                </li>
+                                <li class="items-count__item">
+                                    Приближается Deadline: <a href="#" class="items-count__num">2</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="header__right"><a href="#" class="logout">LogOut</a></div>
+                    </div>
+                </div>
+            </header>
+
+            <!-- /==================== page-content ====================\ -->
+
+            <main class="page-content">
+                <div class="container">
+
+                    <!-- /==================== UserDisplay ====================\ -->
+                    <div class="userdisplay">
+                        <div class="userdisplay__title">ПОЛЬЗОВАТЕЛЬ:</div>
+                        <div class="userdisplay__name">Пупкин Валерий Петрович</div>
+                        <div class="userdisplay__func">
+                            <a href="#" class="userdisplay__button">Изменить</a>
+                            <a href="#" class="userdisplay__button">Удалить</a>
+                        </div>
+                    </div>
+
+                    <!-- /==================== functions ====================\ -->
+                    <div class="functions">
+                        <div class="functions__create">
+                            <a href="#" class="functions__button functions__button-blue">Создать</a>
+                        </div>
+                        <div class="functions__filter">
+                            <a href="#" class="functions__button functions__button-grey">Все</a>
+                            <a href="#" class="functions__button functions__button-grey">Актуальные</a>
+                            <a href="#" class="functions__button functions__button-grey">Закрытые</a>
+                        </div>
+                    </div>
+
+                    <!-- /==================== checktable ====================\ -->
+                    <div class="checktable">
+
+                        <ul class="checktable__table">
+                            <li class="checktable__head">
+                                <div class="checktable__check">Чек</div>
+                                <div class="checktable__task">Задача</div>
+                                <div class="checktable__create">Создана</div>
+                                <div class="checktable__deadline">Deadline</div>
+                                <div class="checktable__func"> </div>
+                            </li>
+                            <li class="checktable__row">
+                                <div class="checktable__check">
+                                    <a href="#" class="checkbutton">
+                                        <i class="fa fa-check" aria-hidden="true"></i>
+                                    </a>
+                                </div>
+                                <div class="checktable__task">
+                                    <div class="checktable__title">
+                                        <a href="" class="checktable__link">Не работает компьютер
+                                        </a>
+                                    </div>
+                                    <div class="checktable__description">У пользователя включен капслок, он не может
+                                        ввести пароль. Научить пользователя пользоваться капслоком</div>
+                                </div>
+                                <div class="checktable__create">25.02.2022</div>
+                                <div class="checktable__deadline">26.02.2022</div>
+                                <div class="checktable__func">
+                                    <ul class="funcmenu">
+                                        <li class="funcmenu__item">
+                                            <a href="#" class="funcmenu__link">Изменить</a>
+                                        </li>
+                                        <li class="funcmenu__item">
+                                            <a href="#" class="funcmenu__link">Удалить</a>
+                                        </li>
+                                    </ul>
+                                    <div class="hamburger">
+                                        <a href="#" class="hamburger__link">
+                                            <i class="fa fa-bars" aria-hidden="true"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="checktable__row checktable__row-red">
+                                <div class="checktable__check">
+                                    <a href="#" class="checkbutton">
+                                        <i class="fa fa-check" aria-hidden="true"></i>
+                                    </a>
+                                </div>
+                                <div class="checktable__task">
+                                    <div class="checktable__title">
+                                        <a href="" class="checktable__link">Не работает компьютер
+                                        </a>
+                                    </div>
+                                    <div class="checktable__description">У пользователя включен капслок, он не может
+                                        ввести пароль. Научить пользователя пользоваться капслоком</div>
+                                </div>
+                                <div class="checktable__create">25.02.2022</div>
+                                <div class="checktable__deadline">26.02.2022</div>
+                                <div class="checktable__func">
+                                    <ul class="funcmenu">
+                                        <li class="funcmenu__item">
+                                            <a href="#" class="funcmenu__link">Изменить</a>
+                                        </li>
+                                        <li class="funcmenu__item">
+                                            <a href="#" class="funcmenu__link">Удалить</a>
+                                        </li>
+                                    </ul>
+                                    <div class="hamburger">
+                                        <a href="#" class="hamburger__link">
+                                            <i class="fa fa-bars" aria-hidden="true"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </main>
+
+        </div>
+    </div>
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-block">
+                <div class="footer__text">Это подвал Check-Box. Copyright 2022 - 2022.</div>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

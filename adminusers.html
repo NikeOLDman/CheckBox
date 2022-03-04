@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Users</title>
+    <link rel="stylesheet" href="css/main.css">
+    <script src="js/modernizr-custom.js"></script>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="maincontent">
+
+            <!-- /==================== header ====================\ -->
+            <header class="header">
+                <div class="container">
+                    <div class="header__block">
+                        <div class="header__left">
+                            <div class="user">
+                                Режим администратора - Пупкин Валерий Петрович
+                            </div>
+                            <ul class="items-count">
+                                <li class="items-count__item">
+                                    Зарегистрировано пользователей: <a href="#" class="items-count__num">55</a>
+                                </li>
+                                <li class="items-count__item">
+                                    Активных задач: <a href="#" class="items-count__num">10</a>
+                                </li>
+                                <li class="items-count__item">
+                                    Приближается Deadline: <a href="#" class="items-count__num">2</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="header__right"><a href="#" class="logout">LogOut</a></div>
+                    </div>
+                </div>
+            </header>
+
+            <!-- /==================== page-content ====================\ -->
+
+            <main class="page-content">
+                <div class="container">
+                    <!-- /==================== functions ====================\ -->
+                    <div class="functions">
+                        <div class="functions__create">
+                            <a href="#" class="functions__button functions__button-blue">Создать</a>
+                        </div>
+                        <div class="functions__filter">
+                            <a href="#" class="functions__button functions__button-grey">Все</a>
+                            <a href="#" class="functions__button functions__button-grey">Актуальные</a>
+                            <a href="#" class="functions__button functions__button-grey">Закрытые</a>
+                        </div>
+                    </div>
+
+                    <!-- /==================== checktable ====================\ -->
+                    <div class="checktable">
+
+                        <ul class="checktable__table">
+                            <li class="checktable__head">
+                                <div class="checktable__check usertable-fio">ФИО</div>
+                                <div class="checktable__task usertable-login">Логин</div>
+                                <div class="checktable__create usertable-create">Создан</div>
+                                <div class="checktable__deadline usertable-deleted">Удален</div>
+                                <div class="checktable__func"> </div>
+                            </li>
+                            <li class="checktable__row">
+                                <div class="checktable__check usertable-fio">
+                                    <div class="checktable__title">
+                                        <a href="#" class="checktable__link">Пупкин Валерий Петрович
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="checktable__task usertable-login">
+                                    pupkin123
+                                </div>
+                                <div class="checktable__create usertable-create">25.02.2022</div>
+                                <div class="checktable__deadline usertable-deleted">НЕТ</div>
+                                <div class="checktable__func">
+                                    <div class="hamburger">
+                                        <a href="#" class="hamburger__link">
+                                            <i class="fa fa-bars" aria-hidden="true"></i>
+                                        </a>
+                                    </div>
+                                    <ul class="funcmenu">
+                                        <li class="funcmenu__item">
+                                            <a href="#" class="funcmenu__link">Изменить</a>
+                                        </li>
+                                        <li class="funcmenu__item">
+                                            <a href="#" class="funcmenu__link">Удалить</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="checktable__row checktable__row-checked">
+                                <div class="checktable__check usertable-fio">
+                                    <div class="checktable__title">
+                                        <a href="#" class="checktable__link">Пупкин Валерий Петрович
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="checktable__task usertable-login">
+                                    pupkin123
+                                </div>
+                                <div class="checktable__create usertable-create">25.02.2022</div>
+                                <div class="checktable__deadline usertable-deleted">НЕТ</div>
+                                <div class="checktable__func">
+                                    <div class="hamburger">
+                                        <a href="#" class="hamburger__link">
+                                            <i class="fa fa-bars" aria-hidden="true"></i>
+                                        </a>
+                                    </div>
+                                    <ul class="funcmenu">
+                                        <li class="funcmenu__item">
+                                            <a href="#" class="funcmenu__link">Изменить</a>
+                                        </li>
+                                        <li class="funcmenu__item">
+                                            <a href="#" class="funcmenu__link">Удалить</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </main>
+
+        </div>
+    </div>
+
+
+    <!-- /==================== Footer ====================\ -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-block">
+                <div class="footer__text">Это подвал Check-Box. Copyright 2022 - 2022.</div>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

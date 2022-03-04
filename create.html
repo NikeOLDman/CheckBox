@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Создать задачу</title>
+    <link rel="stylesheet" href="css/main.css">
+    <script src="js/modernizr-custom.js"></script>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="maincontent">
+            <div class="blockscreen"></div>
+            <div class="mainpopup-wrapper">
+                <div class="mainpopup-left"></div>
+                <div class="mainpopup-right">
+                    <div class="mainpopup">
+                        <div class="mainpopup__header">Создать задачу_</div>
+                        <div class="mainpopup__form">
+                            <form action="<?= $_SERVER['REQUEST_URI'] ?>" method="post">
+                                <div class="mainpopup__input mainpopup__input-create">
+                                    <label for="txtTitle" class="mainpopup__title create-item">Заголовок</label>
+                                    <input id="txtTitle" required type="text" name="title"
+                                        class="mainpopup__descr create-descr" required value="<?= $login ?>" />
+                                </div>
+                                <div class="mainpopup__input mainpopup__input-create">
+                                    <label for="txtDescr"
+                                        class="mainpopup__title create-item create-item__textarea">Описание</label>
+                                    <textarea id="txtDescr" required type="text" name="descriprion"
+                                        class="mainpopup__descr create-descr create-descr__textarea"></textarea>
+                                </div>
+                                <div class="mainpopup__input mainpopup__input-create mainpopup__input-date">
+                                    <label for="txtDeadline" class="mainpopup__title create-item">Deadline</label>
+                                    <input id="txtDeadline" required type="date" name="deadline"
+                                        class="mainpopup__descr create-descr create-descr__date" />
+                                </div>
+                                <div class="mainpopup__buttons mainpopup__buttons-deadline">
+                                    <div class="mainpopup__button">
+                                        <button type="submit" class="mainpopup__submit">СОЗДАТЬ</button>
+                                    </div>
+                                    <div class="mainpopup__otherbutton">
+                                        <a href="#" class="mainpopup__link">ОТМЕНА</a>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

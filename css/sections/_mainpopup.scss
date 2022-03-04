@@ -1,0 +1,236 @@
+.blockscreen {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.2);
+    z-index: 3;
+    position: fixed;
+}
+
+.mainpopup-wrapper {
+    position: absolute;
+    font-size: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+    position: fixed;
+}
+.mainpopup-left {
+    display: inline-block;
+    width: 0%;
+    min-height: 100%;
+    vertical-align: middle;
+}
+.mainpopup-right {
+    display: inline-block;
+    width: 100%;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.mainpopup {
+    display: inline-block;
+    top: 50%;
+    left: 50%;
+    border-bottom: 8px solid $black;
+    z-index: 10;
+    @include box-shadow(2px 2px 5px rgba(0, 0, 0, 0.2));
+    background: $white;
+    border-radius: 5px;
+    overflow: hidden;
+    font-size: 0px;
+    text-align: left;
+
+    // .mainpopup__header
+
+    &__header {
+        height: 70px;
+        background: $black;
+        color: $white;
+        padding: 25px 30px;
+        font-size: 24px;
+        text-transform: uppercase;
+        text-align: left;
+    }
+    // .mainpopup__form
+    &__form {
+        padding: 50px 30px;
+    }
+    // .mainpopup__input
+    &__input {
+        margin-bottom: 40px;
+        min-width: 341px;
+        position: relative;
+        &-create {
+            margin-bottom: 20px;
+            min-width: 640px;
+        }
+
+        &-date {
+            min-width: 285px;
+            display: inline-block;
+            vertical-align: top;
+            text-align: left;
+        }
+    }
+    // .mainpopup__title
+
+    &__title {
+        display: inline-block;
+        text-transform: uppercase;
+        vertical-align: top;
+        width: 25%;
+        min-width: 85px;
+        height: 56px;
+        background: $black;
+        color: $white;
+        border-bottom-left-radius: 5px;
+        border-top-left-radius: 5px;
+        padding: 16px 10px;
+        font-size: 24px;
+    }
+
+    // .mainpopup__descr
+
+    &__descr {
+        display: inline-block;
+        vertical-align: top;
+        width: 75%;
+        min-width: 255px;
+        font-size: 24px;
+        height: 56px;
+        border: none;
+        border: 2px solid $black;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        outline: 0;
+        padding: 16px 10px;
+
+        &-check {
+            position: absolute;
+            z-index: -1;
+            opacity: 0;
+            transition: all 0.1s;
+
+            &:checked + label::after,
+            &:not(:checked) + label::after {
+                position: absolute;
+                top: 0px;
+                left: 88px;
+                content: "V";
+                border-top-right-radius: 5px;
+                border-bottom-right-radius: 5px;
+                width: 50px;
+                line-height: 1;
+                padding: 16px 10px 12px;
+                border: 2px solid $black;
+                text-align: center;
+                @include fira(medium);
+                cursor: pointer;
+                transition: all 0.1s;
+                color: $grey;
+            }
+            &:checked + label::after {
+                background: $blue;
+                color: $white;
+            }
+            &:not(:checked):hover + label::after {
+                background: #33c0e350;
+            }
+        }
+    }
+
+    &__text {
+        font-size: 24px;
+        text-transform: uppercase;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    // .mainpopup__buttons
+
+    &__buttons {
+        font-size: 0px;
+
+        &-deadline {
+            display: inline-block;
+            width: 350px;
+            text-align: right;
+        }
+    }
+
+    // .mainpopup__otherbutton
+
+    &__otherbutton {
+        width: 50%;
+        font-size: 24px;
+        display: inline-block;
+        text-align: center;
+    }
+
+    // .mainpopup__button
+
+    &__button {
+        width: 50%;
+        font-size: 24px;
+        display: inline-block;
+        text-align: center;
+    }
+
+    // .mainpopup__link
+
+    &__link {
+        text-decoration: none;
+        color: $black;
+        display: inline-block;
+        transition: all 0.1s;
+        &:hover {
+            color: $blue;
+        }
+    }
+
+    // .mainpopup__submit
+
+    &__submit {
+        background: $blue;
+        border: none;
+        border-radius: 5px;
+        color: $white;
+        @include fira(medium);
+        height: 40px;
+        padding: 5px 40px 0;
+        cursor: pointer;
+        transition: all 0.1s;
+        &:hover {
+            background: $red;
+        }
+    }
+}
+
+.create-item {
+    width: 108px;
+    font-size: 16px;
+    height: 40px;
+    padding: 12px 10px;
+
+    &__textarea {
+        height: 180px;
+    }
+}
+
+.create-descr {
+    width: 531px;
+    font-size: 16px;
+    height: 40px;
+    padding: 12px 10px;
+
+    &__textarea {
+        height: 180px;
+        resize: none;
+    }
+
+    &__date {
+        width: 150px;
+        min-width: 150px;
+    }
+}
