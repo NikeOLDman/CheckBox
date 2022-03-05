@@ -2,6 +2,7 @@
 if ($_SESSION['admin'] == true && $_SESSION['editableUserID'] != NULL) $uid = clearInt($_SESSION['editableUserID']);
 else $uid = (int)($_GET['uid']);
 $ref = trim(strip_tags($_GET['ref']));
+(isset($_POST['adm'])) ?: $_POST['adm'] = '';
 if (!$result = userData($uid)) trigger_error(ERR_ON_CHANGE_USER_LOAD, E_USER_NOTICE);
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
