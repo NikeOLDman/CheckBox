@@ -137,9 +137,18 @@
         }
     }
 
+    &__headtitle {
+        text-decoration: none;
+        color: $black;
+        transition: all 0.1s;
+        &:hover {
+            color: $blue;
+        }
+    }
     // .checktable__title
 
     &__title {
+        text-decoration: none;
     }
 
     // .checktable__description
@@ -148,6 +157,9 @@
         @include fira(light);
         font-size: 14px;
         margin-top: 10px;
+        height: 0px;
+        overflow: hidden;
+        transition: height 500ms ease;
     }
 }
 .checkbutton {

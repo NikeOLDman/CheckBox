@@ -4574,3 +4574,79 @@
 [04-03-2022 21:47:26] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
 [04-03-2022 21:47:26] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
 [04-03-2022 21:47:26] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 10:52:16] - parse_ini_file(config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:52:16] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:5
+[05-03-2022 10:52:16] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:6
+[05-03-2022 10:52:16] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:7
+[05-03-2022 10:52:16] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:8
+[05-03-2022 10:52:16] - mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:15
+[05-03-2022 10:52:16] - Невозможно подключиться к базе данных in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:17
+[05-03-2022 10:53:18] - parse_ini_file(config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:53:18] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:5
+[05-03-2022 10:53:18] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:6
+[05-03-2022 10:53:18] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:7
+[05-03-2022 10:53:18] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:8
+[05-03-2022 10:53:18] - mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:15
+[05-03-2022 10:53:18] - Невозможно подключиться к базе данных in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:17
+[05-03-2022 10:53:46] - parse_ini_file(config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:53:46] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:5
+[05-03-2022 10:53:46] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:6
+[05-03-2022 10:53:46] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:7
+[05-03-2022 10:53:46] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:8
+[05-03-2022 10:53:46] - mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:15
+[05-03-2022 10:53:46] - Невозможно подключиться к базе данных in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:17
+[05-03-2022 10:53:50] - parse_ini_file(config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:53:50] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:5
+[05-03-2022 10:53:50] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:6
+[05-03-2022 10:53:50] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:7
+[05-03-2022 10:53:50] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:8
+[05-03-2022 10:53:50] - mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:15
+[05-03-2022 10:53:50] - Невозможно подключиться к базе данных in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:17
+[05-03-2022 10:55:51] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\adminusers.php:29
+[05-03-2022 10:57:21] - parse_ini_file(config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:57:21] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\adminusers.php:29
+[05-03-2022 10:57:40] - parse_ini_file(config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:57:40] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 10:57:40] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 10:57:40] - Undefined index: editableUserName in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:3
+[05-03-2022 10:57:40] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 10:57:40] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 10:57:40] - Invalid argument supplied for foreach() in E:\OpenServer\domains\CheckBox.local\inc\checktable.inc.php:12
+[05-03-2022 10:57:46] - parse_ini_file(config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:57:46] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 10:57:46] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 10:57:46] - Undefined index: editableUserName in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:3
+[05-03-2022 10:57:46] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 10:57:46] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 10:57:46] - Invalid argument supplied for foreach() in E:\OpenServer\domains\CheckBox.local\inc\checktable.inc.php:12
+[05-03-2022 10:57:51] - parse_ini_file(config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:57:51] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\adminusers.php:29
+[05-03-2022 10:57:53] - parse_ini_file(config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:57:53] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 10:57:53] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 10:57:53] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 10:57:53] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 10:57:57] - parse_ini_file(config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:57:57] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\adminusers.php:29
+[05-03-2022 10:58:14] - parse_ini_file(config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:58:14] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\adminusers.php:29
+[05-03-2022 10:58:15] - parse_ini_file(config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:58:15] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 10:58:15] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 10:58:15] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 10:58:15] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 10:58:36] - parse_ini_file(config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:58:36] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 10:58:36] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 10:58:36] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 10:58:36] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:05:25] - mysqli_connect(): (HY000/1049): Unknown database 'checktable' in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:14
+[05-03-2022 11:05:25] - Невозможно подключиться к базе данных in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:16
+[05-03-2022 11:05:54] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:05:54] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:05:54] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:05:54] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:05:56] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:05:56] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:05:56] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:05:56] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5

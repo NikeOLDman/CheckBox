@@ -14,7 +14,7 @@ document.onreadystatechange = function () {
                     window.getComputedStyle(el, null).getPropertyValue("height");
                     el.style.height = "0";
                 };
-
+            console.dir(taskLink);
             for (let item = 0; item < taskLink.length; item++) {
                 taskLink[item].addEventListener('click', taskToogle);
             }

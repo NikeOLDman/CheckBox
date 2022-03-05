@@ -3499,6 +3499,14 @@ h6 {
   clip: auto;
 }
 
+.header__error {
+  display: block;
+  background: #e85f61;
+  color: #ffffff;
+  text-align: center;
+  padding: 5px;
+}
+
 .header__block {
   background: #414141;
   margin: 30px 30px 40px;
@@ -3750,10 +3758,29 @@ h6 {
   color: #33c1e3;
 }
 
+.checktable__headtitle {
+  text-decoration: none;
+  color: #414141;
+  -webkit-transition: all 0.1s;
+  transition: all 0.1s;
+}
+
+.checktable__headtitle:hover {
+  color: #33c1e3;
+}
+
+.checktable__title {
+  text-decoration: none;
+}
+
 .checktable__description {
   font-family: "fira_sanslight";
   font-size: 14px;
   margin-top: 10px;
+  height: 0px;
+  overflow: hidden;
+  -webkit-transition: height 500ms ease;
+  transition: height 500ms ease;
 }
 
 .checkbutton {

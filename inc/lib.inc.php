@@ -29,7 +29,7 @@ function myError($no, $msg, $file, $line)
         case E_USER_ERROR:
         case E_USER_WARNING:
         case E_USER_NOTICE:
-            echo $msg;
+            echo "<div class='header__error'>" . $msg . "</div>";
     }
     error_log("$str", 3, "error.log");
 };

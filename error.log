@@ -2051,3 +2051,138 @@
 [04-03-2022 22:24:55] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
 [04-03-2022 22:25:14] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
 [04-03-2022 22:28:37] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 09:51:35] - Неправильное имя пользователя или пароль! in E:\OpenServer\domains\CheckBox.local\login.php:27
+[05-03-2022 09:54:38] - Undefined index: ref in E:\OpenServer\domains\CheckBox.local\login.php:13
+[05-03-2022 09:54:38] - Неправильное имя пользователя или пароль! in E:\OpenServer\domains\CheckBox.local\login.php:27
+[05-03-2022 09:55:07] - Undefined index: ref in E:\OpenServer\domains\CheckBox.local\login.php:13
+[05-03-2022 09:55:07] - Неправильное имя пользователя или пароль! in E:\OpenServer\domains\CheckBox.local\login.php:27
+[05-03-2022 09:56:12] - session_start(): Cannot start session when headers already sent in E:\OpenServer\domains\CheckBox.local\login.php:8
+[05-03-2022 09:56:12] - Cannot modify header information - headers already sent by (output started at E:\OpenServer\domains\CheckBox.local\css\main.css:1) in E:\OpenServer\domains\CheckBox.local\login.php:9
+[05-03-2022 09:56:12] - Undefined index: ref in E:\OpenServer\domains\CheckBox.local\login.php:13
+[05-03-2022 09:56:13] - Неправильное имя пользователя или пароль! in E:\OpenServer\domains\CheckBox.local\login.php:27
+[05-03-2022 09:56:27] - Undefined index: ref in E:\OpenServer\domains\CheckBox.local\login.php:13
+[05-03-2022 09:56:27] - Неправильное имя пользователя или пароль! in E:\OpenServer\domains\CheckBox.local\login.php:27
+[05-03-2022 09:57:17] - Undefined index: ref in E:\OpenServer\domains\CheckBox.local\login.php:13
+[05-03-2022 09:57:17] - Неправильное имя пользователя или пароль! in E:\OpenServer\domains\CheckBox.local\login.php:27
+[05-03-2022 09:57:54] - Undefined index: ref in E:\OpenServer\domains\CheckBox.local\login.php:13
+[05-03-2022 09:57:54] - Неправильное имя пользователя или пароль! in E:\OpenServer\domains\CheckBox.local\login.php:27
+[05-03-2022 09:58:02] - Undefined index: ref in E:\OpenServer\domains\CheckBox.local\login.php:13
+[05-03-2022 09:58:02] - Неправильное имя пользователя или пароль! in E:\OpenServer\domains\CheckBox.local\login.php:27
+[05-03-2022 09:58:07] - Undefined index: ref in E:\OpenServer\domains\CheckBox.local\login.php:13
+[05-03-2022 09:58:07] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 09:58:17] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 09:58:21] - Undefined index: ref in E:\OpenServer\domains\CheckBox.local\login.php:13
+[05-03-2022 09:58:21] - Неправильное имя пользователя или пароль! in E:\OpenServer\domains\CheckBox.local\login.php:31
+[05-03-2022 10:07:18] - parse_ini_file(../config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:07:18] - Undefined index: ref in E:\OpenServer\domains\CheckBox.local\login.php:13
+[05-03-2022 10:07:18] - parse_ini_file(../config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:07:18] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:07:59] - parse_ini_file(../config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:07:59] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:08:31] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:08:32] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:09:12] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:09:24] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:09:59] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:10:15] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:16:04] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:16:06] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:16:14] - Неправильное имя пользователя или пароль! in E:\OpenServer\domains\CheckBox.local\login.php:27
+[05-03-2022 10:16:18] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:17:15] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:18:23] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:18:26] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:18:58] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:18:59] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:19:00] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:19:01] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:19:02] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:19:03] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:19:05] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:19:07] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:19:08] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:19:09] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:19:10] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:19:11] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:19:12] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:19:13] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:19:14] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:19:16] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:19:55] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:21:43] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:21:53] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:21:56] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:23:18] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:23:24] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:28:42] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:28:50] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:29:03] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:31:26] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:39:15] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:39:24] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:41:54] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:42:16] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:42:43] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:43:59] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:44:05] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:44:09] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:44:56] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:46:49] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:46:53] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:46:56] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:46:59] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:47:01] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:47:16] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:47:24] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:47:28] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:47:29] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:47:42] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:48:55] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:48:56] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:48:56] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:49:06] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:49:07] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:49:07] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:49:07] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:49:07] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:49:08] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:51:17] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:51:31] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:51:33] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:51:48] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:51:52] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:53:06] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:53:07] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:53:12] - Undefined index: ref in E:\OpenServer\domains\CheckBox.local\login.php:13
+[05-03-2022 10:53:12] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:53:53] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 10:55:01] - parse_ini_file(/config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:55:01] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:5
+[05-03-2022 10:55:01] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:6
+[05-03-2022 10:55:01] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:7
+[05-03-2022 10:55:01] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:8
+[05-03-2022 10:55:01] - mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:15
+[05-03-2022 10:55:01] - Невозможно подключиться к базе данных in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:17
+[05-03-2022 10:55:58] - parse_ini_file(../config.ini): failed to open stream: No such file or directory in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:3
+[05-03-2022 10:55:58] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:5
+[05-03-2022 10:55:58] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:6
+[05-03-2022 10:55:58] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:7
+[05-03-2022 10:55:58] - Trying to access array offset on value of type bool in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:8
+[05-03-2022 10:55:58] - mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:15
+[05-03-2022 10:55:58] - Невозможно подключиться к базе данных in E:\OpenServer\domains\CheckBox.local\inc\config.inc.php:17
+[05-03-2022 10:57:18] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:06:04] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:06:05] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:06:06] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:06:07] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:06:08] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:06:10] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:06:11] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:06:11] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:06:12] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:06:13] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:06:21] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:06:25] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:08:14] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:08:34] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:08:39] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
