@@ -3,9 +3,9 @@
     <ul class="checktable__table">
         <li class="checktable__head">
             <div class="checktable__check">Чек</div>
-            <div class="checktable__task"><a class="checktable__link" href="inc/orderByTasks.inc.php?orderByTasks=title&ref=<?= $_SERVER['REQUEST_URI'] ?>">Задача</a></div>
-            <div class="checktable__create"><a class="checktable__link" href="inc/orderByTasks.inc.php?orderByTasks=daytime&ref=<?= $_SERVER['REQUEST_URI'] ?>">Создана</a></div>
-            <div class="checktable__deadline"><a class="checktable__link" href="inc/orderByTasks.inc.php?orderByTasks=deadline&ref=<?= $_SERVER['REQUEST_URI'] ?>">Deadline</a></div>
+            <div class="checktable__task"><a class="checktable__headtitle" href="inc/orderByTasks.inc.php?orderByTasks=title&ref=<?= $_SERVER['REQUEST_URI'] ?>">Задача</a></div>
+            <div class="checktable__create"><a class="checktable__headtitle" href="inc/orderByTasks.inc.php?orderByTasks=daytime&ref=<?= $_SERVER['REQUEST_URI'] ?>">Создана</a></div>
+            <div class="checktable__deadline"><a class="checktable__headtitle" href="inc/orderByTasks.inc.php?orderByTasks=deadline&ref=<?= $_SERVER['REQUEST_URI'] ?>">Deadline</a></div>
             <div class="checktable__func"> </div>
         </li>
         <?php
@@ -21,10 +21,10 @@
                     </a>
                 </div>
                 <div class="checktable__task">
-                    <div class="checktable__title">
-                        <a href="#" class="checktable__link"><?= $item['title'] ?>
-                        </a>
-                    </div>
+                    <a href="#" class="checktable__link"><?= $item['title'] ?>
+                        <div class="checktable__title">
+                        </div>
+                    </a>
                     <div class="checktable__description"><?= $item['description'] ?></div>
                 </div>
                 <div class="checktable__create"><?= date('d-m-Y', $item['daytime']) ?></div>

@@ -53,6 +53,7 @@ if (isset($_GET['logout'])) {
 
     <!-- /==================== Footer ====================\ -->
     <?php include "../inc/footer.inc.php" ?>
+    <script src="../js/script.js"></script>
 </body>
 
 </html>
