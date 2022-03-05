@@ -4,6 +4,7 @@
     <div class="userdisplay__func">
         <a href="<?= $_SERVER['REQUEST_URI'] ?>?popuptask=changeuser&uid=<?= $_SESSION['editableUserID'] ?>&ref=<?= $_SERVER['REQUEST_URI'] ?>" class="userdisplay__button">Изменить</a>
 
+
         <?php
         if (deletedUser($_SESSION['editableUserID']) == 1) {
         ?>
