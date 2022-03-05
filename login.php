@@ -4,6 +4,7 @@ require "inc/lib.inc.php";
 set_error_handler("myError");
 require "inc/config.inc.php";
 $title = 'Авторизация';
+(isset($_GET['ref'])) ?: $_GET['ref'] = '';
 $login  = '';
 session_start();
 header("HTTP/1.1 401 Unauthorized");

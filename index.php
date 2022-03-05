@@ -7,6 +7,7 @@ require "inc/config.inc.php";
 $title = "Таблица пользователей";
 $_SESSION['editableUserID'] = NULL;
 $currentUser = clearInt($_SESSION['user']);
+(isset($_GET['popuptask'])) ?: $_GET['popuptask'] = '';
 $allTasks = selectAllTasks($currentUser, $settings['filterTasks'], $settings['orderByTasks']);
 if (isset($_GET['logout'])) {
     logOut();

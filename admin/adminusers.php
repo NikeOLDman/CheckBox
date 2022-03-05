@@ -6,6 +6,7 @@ require "../inc/config.inc.php";
 require "secure/secure.inc.php";
 $title = "Таблица пользователей";
 $_SESSION['editableUserID'] = NULL;
+(isset($_GET['popuptask'])) ?: $_GET['popuptask'] = '';
 $allUsers = selectAllUsers($settings['filterUsers'], $settings['orderByUsers']);
 
 if (isset($_GET['logout'])) {

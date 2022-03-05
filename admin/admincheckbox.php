@@ -4,7 +4,8 @@ require "../inc/lib.inc.php";
 set_error_handler("myError");
 require "../inc/config.inc.php";
 require "secure/secure.inc.php";
-$title = "Check-Box - $currentUser";
+$title = "Админ Check-Box";
+(isset($_GET['popuptask'])) ?: $_GET['popuptask'] = '';
 $allTasks = selectAllTasks($_SESSION['editableUserID'], $settings['filterTasks'], $settings['orderByTasks']);
 if (isset($_GET['logout'])) {
     logOut();
