@@ -4682,3 +4682,112 @@
 [05-03-2022 11:14:53] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
 [05-03-2022 11:14:53] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
 [05-03-2022 11:14:53] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:29:50] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:29:50] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:29:50] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:29:55] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:29:55] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:29:55] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:29:55] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:29:55] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:29:55] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:29:55] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:29:57] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:29:57] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:29:57] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:04] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:30:04] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:04] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:04] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:30:04] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:30:04] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:04] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:12] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:30:12] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:30:12] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:12] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:19] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:30:19] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:30:19] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:19] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:21] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:30:21] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:30:21] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:21] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:23] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:30:23] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:30:23] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:23] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:24] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:30:24] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:30:24] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:24] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:26] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:30:26] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:30:26] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:26] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:28] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:30:28] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:30:28] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:28] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:30] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:30:30] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:30:30] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:30:30] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:42:49] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\adminusers.php:29
+[05-03-2022 11:42:53] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:42:53] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:42:53] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:42:53] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:07] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:43:07] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:43:07] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:07] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:08] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:43:08] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:43:08] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:08] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:09] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:43:09] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:43:09] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:09] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:09] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:43:09] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:43:09] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:09] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:10] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:43:10] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:43:10] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:10] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:11] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:43:11] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:43:11] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:11] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:11] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:43:11] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:43:11] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:11] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:12] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:43:12] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:43:12] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:12] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:13] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\adminusers.php:29
+[05-03-2022 11:43:14] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:43:14] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:43:14] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:14] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:19] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:43:19] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:19] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:30] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:43:30] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:43:30] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:30] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:36] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:43:36] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:36] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:48] - Undefined variable: currentUser in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:7
+[05-03-2022 11:43:48] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\admincheckbox.php:28
+[05-03-2022 11:43:48] - Undefined variable: item in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:48] - Trying to access array offset on value of type null in E:\OpenServer\domains\CheckBox.local\admin\inc\userdisplay.inc.php:5
+[05-03-2022 11:43:49] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\admin\adminusers.php:29

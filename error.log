@@ -2186,3 +2186,28 @@
 [05-03-2022 11:08:14] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
 [05-03-2022 11:08:34] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
 [05-03-2022 11:08:39] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:34:32] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:34:35] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:34:50] - Undefined index: ref in E:\OpenServer\domains\CheckBox.local\login.php:13
+[05-03-2022 11:34:50] - Неправильное имя пользователя или пароль! in E:\OpenServer\domains\CheckBox.local\login.php:31
+[05-03-2022 11:35:11] - Undefined index: ref in E:\OpenServer\domains\CheckBox.local\login.php:13
+[05-03-2022 11:35:11] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:35:15] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:35:16] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:35:16] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:35:18] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:42:08] - Undefined index: admin in E:\OpenServer\domains\CheckBox.local\inc\create.inc.php:7
+[05-03-2022 11:42:08] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:42:12] - Undefined index: admin in E:\OpenServer\domains\CheckBox.local\inc\checktask.inc.php:2
+[05-03-2022 11:42:12] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:42:14] - Undefined index: admin in E:\OpenServer\domains\CheckBox.local\inc\checktask.inc.php:2
+[05-03-2022 11:42:14] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:42:35] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:42:36] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:42:37] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:42:37] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:42:41] - Undefined index: ref in E:\OpenServer\domains\CheckBox.local\login.php:13
+[05-03-2022 11:42:41] - Неправильное имя пользователя или пароль! in E:\OpenServer\domains\CheckBox.local\login.php:27
+[05-03-2022 11:42:45] - Undefined index: ref in E:\OpenServer\domains\CheckBox.local\login.php:13
+[05-03-2022 11:42:45] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
+[05-03-2022 11:43:53] - Undefined index: popuptask in E:\OpenServer\domains\CheckBox.local\index.php:29
